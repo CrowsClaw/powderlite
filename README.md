@@ -1,1 +1,1 @@
-"# powderlite" 
+A small attempt at a rogue like procedural generation game using Cellular Automata written in Java.
